@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    ".",
+    "database",
+    "gui"
+  ],
+  "java.project.referencedLibraries": [
+    "C:\\Users\\Talgat\\OneDrive\\Desktop\\AITU\\OOP\\lib\\mysql-connector-j-9.2.0.jar"
+  ]
+}
